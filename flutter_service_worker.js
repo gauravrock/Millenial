@@ -1,10 +1,10 @@
 'use strict';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "index.html": "127b2ee24b4a4b5993bccb21fa0e7ccd",
+  "favicon.ico": "8661ef49b714906b23233d3f335c769b",
+"index.html": "127b2ee24b4a4b5993bccb21fa0e7ccd",
 "/": "127b2ee24b4a4b5993bccb21fa0e7ccd",
-"main.dart.js": "efb534109803a10ea7fb35227bb3c7c7",
-"favicon.png": "5dcef449791fa27946b3d35ad8803796",
+"main.dart.js": "665a96787e4bc0f9811a3b84e2fb4e51",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "277ae3ad95f2ad6d4c10aedc24f3947e",
@@ -18,7 +18,8 @@ const RESOURCES = {
 "assets/assets/images/linkedin.png": "1a9291b12d642cb2fa8aa8fbef5c7be1",
 "assets/assets/fonts/Caveat-Bold.ttf": "3001cff3181eefd8db327cd724309a09",
 "assets/assets/fonts/Caveat-Regular.ttf": "b20ff458bc0dc48c039c68a3dc96173c",
-"assets/assets/code1.flr": "3ec5cd241c72ef914a76be34056fa23e"
+"assets/assets/code1.flr": "3ec5cd241c72ef914a76be34056fa23e",
+"favicon-32x32.png": "8cb395cb6fa17dc2988938d233557301"
 };
 
 self.addEventListener('activate', function (event) {
