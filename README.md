@@ -1,2 +1,2 @@
 # Millenial
-a personal portfolio
+This personal portfolio is made using Flutter💛
